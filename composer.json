@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "arbory/project",
+    "description": "Laravel boilerplate with Arbory CMS",
+    "keywords": ["laravel", "arbory", "cms", "admin-panel", "crud"],
     "license": "MIT",
     "type": "project",
     "require": {
